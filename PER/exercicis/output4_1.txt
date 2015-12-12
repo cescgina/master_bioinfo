@@ -1,0 +1,537 @@
+AF245356.ENm001.+1	mrna	1	CDSt	1	CDSi	5	CDSf	1	exon	7	
+AL050162.ENm001.+1	exon	3	CDSi	2	CDSt	1	mrna	1	
+AY143171.ENm001.+1	exon	1	mrna	1	CDSs	1	
+BC005256.ENm001.+1	CDSi	1	CDSf	1	exon	3	mrna	1	CDSt	1	
+AY353255.ENm001.+1	CDSt	1	mrna	1	CDSf	1	exon	3	CDSi	1	
+BC009685.ENm001.+1	CDSi	1	CDSf	1	exon	3	mrna	1	CDSt	1	
+AF172085.ENm001.+1	CDSf	1	exon	2	mrna	1	CDSt	1	
+X54559.ENm001.+1	CDSi	18	exon	21	CDSf	1	mrna	1	CDSt	1	
+U08818.ENm001.+1	CDSt	1	mrna	1	exon	7	CDSi	6	
+U11813.ENm001.+1	CDSt	1	mrna	1	exon	1	
+U03851.ENm001.+1	exon	10	CDSf	1	CDSi	8	CDSt	1	mrna	1	
+BC075855.ENm001.+1	CDSf	1	exon	16	CDSi	14	CDSt	1	mrna	1	
+AF234882.ENm001.+1	CDSi	13	exon	15	CDSf	1	mrna	1	CDSt	1	
+BC030954.ENm001.+1	exon	16	CDSf	1	CDSi	14	CDSt	1	mrna	1	
+AY625690.ENm001.+1	mrna	1	CDSf	1	exon	2	CDSi	1	
+AK093212.ENm001.+1	CDSt	1	mrna	1	CDSf	1	exon	16	CDSi	13	
+AY009152.ENm001.+1	CDSi	14	CDSf	1	exon	16	mrna	1	CDSt	1	
+AY009153.ENm001.+1	CDSi	13	CDSf	1	exon	15	mrna	1	CDSt	1	
+AJ277291.ENm001.+1	CDSt	1	mrna	1	CDSf	1	exon	14	CDSi	12	
+AF415174.ENm001.+1	CDSi	9	exon	10	mrna	1	CDSt	1	
+BC029854.ENm001.-1	mrna	1	CDSt	1	CDSi	3	CDSf	1	exon	5	
+AF461259.ENm001.-1	CDSf	1	exon	13	CDSi	11	CDSt	1	mrna	1	
+M28668.ENm001.+1	exon	27	CDSf	1	CDSi	25	CDSt	1	mrna	1	
+S82430.ENm001.+1	CDSt	1	mrna	1	exon	2	CDSi	1	
+AK096565.ENm001.-1	exon	11	CDSf	1	CDSi	8	CDSt	1	mrna	1	
+AB051545.ENm001.-1	CDSi	22	CDSf	1	exon	23	mrna	1	
+AF377960.ENm001.-1	mrna	1	CDSt	1	CDSi	21	CDSf	1	exon	23	
+AB020644.ENm002.-1	mrna	1	CDSi	20	CDSf	1	exon	21	
+BC047453.ENm002.-1	CDSi	17	exon	20	CDSf	1	mrna	1	CDSt	1	
+AK095757.ENm002.-1	exon	1	mrna	1	CDSs	1	
+M20137.ENm002.+1	exon	5	CDSf	1	CDSi	3	CDSt	1	mrna	1	
+BC066275.ENm002.+1	CDSt	1	mrna	1	exon	5	CDSf	1	CDSi	3	
+M11220.ENm002.+1	CDSi	2	CDSf	1	exon	4	mrna	1	CDSt	1	
+AY358970.ENm002.-1	mrna	1	CDSt	1	CDSi	12	exon	16	CDSf	1	
+BC030525.ENm002.-1	CDSt	1	mrna	1	CDSf	1	exon	4	
+AF153882.ENm002.+1	mrna	1	CDSt	1	CDSi	5	CDSf	1	exon	7	
+BC028313.ENm002.+1	CDSf	1	exon	10	CDSi	8	CDSt	1	mrna	1	
+AK126749.ENm002.-1	exon	2	CDSs	1	mrna	1	
+NM_003060.ENm002.+1	mrna	1	CDSt	1	CDSi	8	exon	10	CDSf	1	
+AK128610.ENm002.+1	CDSi	2	CDSf	1	exon	4	mrna	1	CDSt	1	
+AK096941.ENm002.+1	exon	4	CDSf	1	CDSi	1	CDSt	1	mrna	1	
+BC009483.ENm002.-1	CDSt	1	mrna	1	exon	10	CDSf	1	CDSi	7	
+X04688.ENm002.-1	mrna	1	CDSt	1	CDSi	2	exon	4	CDSf	1	
+U63139.ENm002.+1	mrna	1	CDSt	1	CDSi	23	CDSf	1	exon	25	
+AF057300.ENm002.+1	mrna	1	CDSt	1	CDSi	20	exon	25	CDSf	1	
+BC062603.ENm002.+1	CDSf	1	exon	11	CDSi	10	mrna	1	
+BC073850.ENm002.+1	CDSf	1	exon	13	CDSi	12	mrna	1	
+Z75311.ENm002.+1	CDSt	1	mrna	1	exon	25	CDSi	24	
+X69079.ENm002.+1	mrna	1	CDSt	1	CDSi	2	CDSf	1	exon	4	
+BC066278.ENm002.+1	exon	4	CDSs	1	mrna	1	
+M13982.ENm002.+1	CDSf	1	exon	4	CDSi	2	CDSt	1	mrna	1	
+AF043336.ENm002.+1	exon	3	CDSi	3	mrna	1	
+BC045542.ENm002.-1	CDSi	15	exon	17	CDSf	1	mrna	1	CDSt	1	
+BC039592.ENm002.-1	CDSt	1	mrna	1	exon	9	CDSi	8	
+AK131553.ENm002.+1	CDSt	1	mrna	1	CDSf	1	exon	6	CDSi	4	
+D86957.ENm002.-1	exon	10	CDSf	1	CDSi	9	mrna	1	
+AK092782.ENm002.+1	CDSs	1	mrna	1	exon	1	
+AB075840.ENm002.-1	CDSt	1	mrna	1	exon	10	CDSf	1	CDSi	6	
+AF314142.ENm002.-1	mrna	1	CDSt	1	CDSi	5	CDSf	1	exon	7	
+NM_005260.ENm002.-1	mrna	1	exon	2	CDSi	2	
+BC001390.ENm002.+1	exon	3	CDSf	1	mrna	1	CDSt	1	
+AJ409065.ENm002.+1	CDSt	1	mrna	1	exon	3	CDSf	1	CDSi	1	
+AY052782.ENm002.+1	CDSt	1	mrna	1	exon	3	CDSf	1	CDSi	1	
+AF173886.ENm002.-1	CDSs	1	mrna	1	exon	1	
+AF213987.ENm002.-1	CDSt	1	mrna	1	CDSf	1	exon	21	CDSi	8	
+AF197927.ENm002.-1	mrna	1	CDSt	1	CDSi	18	CDSf	1	exon	21	
+AF161355.ENm002.-1	exon	2	CDSf	1	CDSi	1	mrna	1	
+BC025700.ENm002.-1	CDSf	1	exon	7	CDSi	4	CDSt	1	mrna	1	
+AK057832.ENm003.-1	mrna	1	CDSt	1	CDSi	8	exon	10	CDSf	1	
+BC006350.ENm003.-1	mrna	1	CDSt	1	CDSi	8	exon	10	CDSf	1	
+BC004256.ENm003.-1	CDSi	12	exon	14	CDSf	1	mrna	1	CDSt	1	
+AF202889.ENm003.-1	mrna	1	CDSt	1	CDSi	1	CDSf	1	exon	3	
+AY358749.ENm003.-1	mrna	1	CDSt	1	CDSi	1	exon	3	CDSf	1	
+M10373.ENm003.-1	CDSf	1	exon	1	mrna	1	
+X13629.ENm003.-1	exon	3	CDSf	1	CDSi	1	CDSt	1	mrna	1	
+BC027977.ENm003.+1	CDSi	1	exon	4	CDSf	1	mrna	1	CDSt	1	
+M29068.ENm003.-1	mrna	1	CDSf	1	exon	2	CDSi	1	
+BC005380.ENm003.-1	CDSf	1	exon	3	CDSi	1	CDSt	1	mrna	1	
+AK022302.ENm003.-1	mrna	1	CDSt	1	CDSi	3	CDSf	1	exon	6	
+BC063887.ENm003.-1	exon	10	CDSf	1	CDSi	6	CDSt	1	mrna	1	
+AB023216.ENm003.-1	mrna	1	CDSi	22	CDSf	1	exon	24	
+BC035583.ENm003.-1	CDSi	2	CDSf	1	exon	3	mrna	1	
+AF078103.ENm004.+1	exon	9	CDSf	1	CDSi	7	CDSt	1	mrna	1	
+AL133085.ENm004.+1	exon	4	CDSf	1	CDSi	2	CDSt	1	mrna	1	
+AK127132.ENm004.+1	exon	1	mrna	1	CDSs	1	
+BC033028.ENm004.-1	CDSt	1	mrna	1	exon	19	CDSf	1	CDSi	16	
+BC012734.ENm004.-1	mrna	1	CDSt	1	CDSi	7	exon	9	
+AB011114.ENm004.+1	mrna	1	CDSt	1	CDSi	29	CDSf	1	exon	32	
+BC021576.ENm004.+1	exon	15	CDSi	14	CDSt	1	mrna	1	
+BC033613.ENm004.+1	exon	6	CDSf	1	CDSi	4	CDSt	1	mrna	1	
+AK097004.ENm004.+1	CDSs	1	mrna	1	exon	3	
+BC046221.ENm004.+1	exon	5	CDSf	1	CDSi	3	CDSt	1	mrna	1	
+BC001482.ENm004.-1	CDSi	5	CDSf	1	exon	9	mrna	1	CDSt	1	
+CR456540.ENm004.-1	CDSi	6	exon	8	CDSf	1	mrna	1	CDSt	1	
+BC040859.ENm004.-1	CDSi	4	exon	6	CDSf	1	mrna	1	CDSt	1	
+AK123082.ENm004.-1	mrna	1	CDSt	1	CDSi	1	CDSf	1	exon	5	
+AK130944.ENm004.-1	CDSt	1	mrna	1	CDSf	1	exon	5	CDSi	2	
+AK026712.ENm004.-1	mrna	1	CDSs	1	exon	1	
+BC057797.ENm004.+1	exon	22	CDSf	1	CDSi	19	CDSt	1	mrna	1	
+AB014545.ENm004.+1	CDSt	1	mrna	1	CDSf	1	exon	41	CDSi	39	
+BX640828.ENm004.+1	mrna	1	exon	19	CDSi	14	
+CR749304.ENm004.+1	CDSt	1	mrna	1	CDSf	1	exon	21	CDSi	19	
+AK123899.ENm004.+1	CDSs	1	mrna	1	exon	1	
+AL050256.ENm004.-1	CDSt	1	mrna	1	CDSf	1	exon	3	
+BC003047.ENm004.+1	mrna	1	CDSt	1	exon	2	CDSf	1	
+AY007132.ENm004.+1	mrna	1	CDSs	1	exon	1	
+M24847.ENm004.+1	CDSt	1	mrna	1	CDSf	1	exon	15	CDSi	13	
+CR456485.ENm004.-1	CDSi	7	exon	9	CDSf	1	mrna	1	CDSt	1	
+BC051910.ENm004.-1	exon	4	CDSf	1	mrna	1	CDSt	1	
+AJ133127.ENm004.-1	CDSt	1	mrna	1	CDSf	1	exon	15	CDSi	13	
+AK094244.ENm004.+1	mrna	1	CDSs	1	exon	1	
+AK126764.ENm004.+1	CDSs	1	mrna	1	exon	1	
+AJ010232.ENm004.+1	CDSt	1	mrna	1	exon	2	CDSf	1	
+CR456564.ENm004.+1	CDSt	1	mrna	1	exon	2	CDSf	1	
+CR456565.ENm004.-1	exon	1	CDSs	1	mrna	1	
+AL137272.ENm004.-1	CDSt	1	mrna	1	CDSf	1	exon	5	CDSi	3	
+AF161466.ENm004.-1	mrna	1	CDSt	1	CDSi	10	exon	12	CDSf	1	
+CR457175.ENm004.-1	mrna	1	CDSi	12	exon	12	
+AF465766.ENm004.-1	CDSi	15	exon	15	mrna	1	
+BC008361.ENm004.+1	CDSi	7	CDSf	1	exon	9	mrna	1	CDSt	1	
+AF046873.ENm004.-1	exon	13	CDSf	1	CDSi	11	CDSt	1	mrna	1	
+U14394.ENm004.+1	CDSf	1	exon	5	CDSi	3	CDSt	1	mrna	1	
+AB051444.ENm004.-1	exon	2	CDSs	1	mrna	1	
+D45917.ENm004.+1	CDSt	1	mrna	1	exon	1	
+X77690.ENm004.-1	mrna	1	CDSi	1	exon	1	
+AF231919.ENm005.-1	mrna	1	CDSi	38	CDSf	1	exon	39	
+BC007928.ENm005.+1	CDSs	1	mrna	1	exon	1	
+AY358787.ENm005.+1	CDSt	1	mrna	1	CDSf	1	exon	8	CDSi	6	
+AK126660.ENm005.+1	exon	1	mrna	1	CDSs	1	
+AK001794.ENm005.-1	exon	4	mrna	1	CDSs	1	
+BC033855.ENm005.-1	CDSi	2	exon	5	CDSf	1	mrna	1	CDSt	1	
+BC000709.ENm005.-1	CDSt	1	mrna	1	CDSf	1	exon	7	CDSi	5	
+AK000474.ENm005.-1	mrna	1	CDSt	1	CDSi	1	exon	6	CDSf	1	
+AK094456.ENm005.-1	mrna	1	CDSt	1	CDSf	1	exon	2	
+AK055328.ENm005.-1	CDSi	3	exon	6	CDSf	1	mrna	1	CDSt	1	
+AB020717.ENm005.-1	CDSi	31	CDSf	1	exon	33	mrna	1	
+AF009039.ENm005.-1	CDSt	1	mrna	1	exon	33	CDSf	1	CDSi	29	
+AF208862.ENm005.-1	CDSf	1	exon	4	CDSi	1	CDSt	1	mrna	1	
+AK075042.ENm005.-1	CDSi	5	CDSf	1	exon	7	mrna	1	CDSt	1	
+AJ279080.ENm005.-1	mrna	1	CDSt	1	CDSi	16	CDSf	1	exon	18	
+AJ279081.ENm005.-1	exon	18	CDSf	1	CDSi	7	CDSt	1	mrna	1	
+BC030539.ENm005.-1	CDSi	4	CDSf	1	exon	6	mrna	1	CDSt	1	
+BC034794.ENm005.+1	exon	2	mrna	1	CDSt	1	
+AF231922.ENm005.-1	exon	3	mrna	1	CDSs	1	
+BC047511.ENm005.+1	exon	2	mrna	1	CDSs	1	
+AL834450.ENm005.+1	exon	1	mrna	1	CDSs	1	
+L41944.ENm005.+1	CDSt	1	mrna	1	exon	9	CDSf	1	CDSi	6	
+X89814.ENm005.+1	mrna	1	CDSt	1	CDSi	5	exon	8	CDSf	1	
+Z17227.ENm005.+1	CDSt	1	mrna	1	CDSf	1	exon	7	CDSi	5	
+AK124057.ENm005.+1	exon	6	CDSf	1	CDSi	4	CDSt	1	mrna	1	
+J03171.ENm005.+1	CDSf	1	exon	11	CDSi	9	CDSt	1	mrna	1	
+BC002590.ENm005.+1	CDSi	7	CDSf	1	exon	8	mrna	1	
+AK123813.ENm005.+1	exon	1	mrna	1	CDSs	1	
+U05875.ENm005.+1	CDSi	5	CDSf	1	exon	7	mrna	1	CDSt	1	
+AK129657.ENm005.-1	CDSs	1	mrna	1	exon	1	
+AY358634.ENm005.-1	exon	7	CDSf	1	CDSi	4	CDSt	1	mrna	1	
+AF462153.ENm005.-1	mrna	1	CDSs	1	exon	3	
+X54199.ENm005.-1	CDSf	1	exon	22	CDSi	19	CDSt	1	mrna	1	
+AF008655.ENm005.-1	CDSf	1	exon	4	CDSi	3	mrna	1	
+D32051.ENm005.-1	mrna	1	CDSt	1	CDSi	8	exon	11	CDSf	1	
+AK127947.ENm005.+1	exon	11	CDSf	1	CDSi	9	CDSt	1	mrna	1	
+AF380183.ENm005.+1	CDSf	1	exon	13	CDSi	3	CDSt	1	mrna	1	
+BC002422.ENm005.+1	CDSf	1	exon	1	mrna	1	
+AL157441.ENm005.-1	CDSt	1	mrna	1	exon	13	CDSf	1	CDSi	8	
+BC033023.ENm005.-1	mrna	1	CDSt	1	CDSi	10	CDSf	1	exon	13	
+BC022827.ENm005.-1	CDSf	1	exon	3	CDSi	1	mrna	1	
+BC058925.ENm005.+1	CDSi	15	exon	17	CDSf	1	mrna	1	
+BC039036.ENm005.+1	mrna	1	CDSf	1	exon	11	CDSi	9	
+BC073744.ENm005.+1	CDSi	15	CDSf	1	exon	17	mrna	1	
+AF064244.ENm005.+1	CDSi	37	exon	40	CDSf	1	mrna	1	CDSt	1	
+BX538175.ENm005.+1	mrna	1	CDSt	1	CDSi	14	exon	23	
+AY254341.ENm005.+1	mrna	1	CDSi	3	exon	3	
+AY603419.ENm005.+1	CDSi	4	exon	4	mrna	1	
+AY340592.ENm005.+1	CDSt	1	mrna	1	exon	5	CDSi	4	
+AY340593.ENm005.+1	CDSi	3	exon	4	mrna	1	CDSt	1	
+AY138139.ENm005.+1	mrna	1	CDSt	1	CDSi	3	exon	4	
+AY605091.ENm005.+1	mrna	1	CDSi	8	exon	8	
+AY605092.ENm005.+1	mrna	1	CDSt	1	CDSi	1	exon	3	
+AY603418.ENm005.+1	mrna	1	exon	5	CDSi	5	
+BC022865.ENm005.-1	mrna	1	CDSt	1	CDSi	5	CDSf	1	exon	7	
+AK127913.ENm005.+1	exon	2	CDSs	1	mrna	1	
+M77640.ENm006.-1	mrna	1	CDSt	1	CDSi	26	exon	28	CDSf	1	
+AB102653.ENm006.-1	mrna	1	CDSi	28	exon	28	
+AF514420.ENm006.+1	CDSi	3	exon	7	CDSf	1	mrna	1	CDSt	1	
+Z11687.ENm006.+1	CDSi	1	CDSf	1	exon	3	mrna	1	CDSt	1	
+AF032388.ENm006.+1	exon	2	CDSf	1	CDSt	1	mrna	1	
+X78817.ENm006.-1	CDSf	1	exon	22	CDSi	20	CDSt	1	mrna	1	
+BC023626.ENm006.-1	exon	8	CDSf	1	CDSi	7	mrna	1	
+BC052303.ENm006.-1	exon	23	CDSf	1	CDSi	21	CDSt	1	mrna	1	
+BC000308.ENm006.-1	exon	8	CDSf	1	CDSi	6	CDSt	1	mrna	1	
+BC063377.ENm006.-1	exon	7	CDSf	1	CDSi	4	CDSt	1	mrna	1	
+BC015558.ENm006.-1	mrna	1	CDSt	1	CDSi	8	CDSf	1	exon	11	
+L20010.ENm006.-1	CDSi	26	exon	26	mrna	1	
+BC063435.ENm006.-1	mrna	1	CDSt	1	CDSi	7	exon	8	
+BC008203.ENm006.+1	CDSs	1	mrna	1	exon	2	
+CR457047.ENm006.+1	mrna	1	exon	1	CDSi	1	
+BC014963.ENm006.-1	mrna	1	CDSt	1	CDSi	11	CDSf	1	exon	13	
+BC054000.ENm006.-1	exon	14	CDSf	1	CDSi	12	CDSt	1	mrna	1	
+AF158180.ENm006.-1	CDSf	1	exon	4	CDSi	1	CDSt	1	mrna	1	
+BC031833.ENm006.-1	exon	1	CDSf	1	mrna	1	
+BX538060.ENm006.-1	mrna	1	exon	3	CDSf	1	CDSi	2	
+AY541280.ENm006.-1	mrna	1	CDSt	1	CDSi	2	exon	3	
+AF361491.ENm006.+1	exon	1	CDSt	1	mrna	1	
+CR749814.ENm006.+1	CDSi	4	exon	6	CDSf	1	mrna	1	CDSt	1	
+NM_020061.ENm006.+1	CDSi	6	exon	6	mrna	1	
+BC026183.ENm006.-1	CDSt	1	mrna	1	CDSf	1	exon	4	CDSi	2	
+NM_000513.ENm006.+1	mrna	1	CDSi	6	exon	6	
+BC026183.ENm006.-2	CDSt	1	mrna	1	exon	4	CDSf	1	CDSi	2	
+NM_000513.ENm006.+2	mrna	1	CDSi	6	exon	6	
+BC026183.ENm006.-3	CDSi	2	exon	5	CDSf	1	mrna	1	CDSt	1	
+BC025382.ENm006.+1	CDSt	1	mrna	1	exon	13	CDSf	1	CDSi	11	
+X91817.ENm006.+1	CDSi	10	CDSf	1	exon	12	mrna	1	CDSt	1	
+BC041179.ENm006.-1	CDSf	1	exon	3	CDSi	2	mrna	1	
+AK074048.ENm006.-1	CDSi	25	CDSf	1	exon	26	mrna	1	
+AK090427.ENm006.-1	mrna	1	CDSf	1	exon	46	CDSi	45	
+BC014654.ENm006.-1	CDSt	1	mrna	1	CDSf	1	exon	18	CDSi	13	
+BC067111.ENm006.-1	mrna	1	CDSi	17	CDSf	1	exon	18	
+X53416.ENm006.-1	CDSf	1	exon	48	CDSi	45	CDSt	1	mrna	1	
+AK125630.ENm006.-1	exon	1	CDSs	1	mrna	1	
+BC000738.ENm006.+1	CDSi	4	CDSf	1	exon	6	mrna	1	CDSt	1	
+AK027197.ENm006.+1	CDSs	1	mrna	1	exon	2	
+BC003358.ENm006.+1	exon	6	CDSf	1	CDSi	4	CDSt	1	mrna	1	
+BC028092.ENm006.-1	CDSi	5	exon	8	CDSf	1	mrna	1	CDSt	1	
+X92762.ENm006.+1	CDSf	1	exon	11	CDSi	9	CDSt	1	mrna	1	
+BC005062.ENm006.+1	CDSt	1	mrna	1	CDSf	1	exon	10	CDSi	1	
+BC011515.ENm006.+1	CDSi	5	exon	7	CDSf	1	mrna	1	CDSt	1	
+BC009467.ENm006.-1	CDSf	1	exon	2	mrna	1	
+AK075284.ENm006.+1	CDSi	6	exon	7	CDSf	1	mrna	1	
+AK090462.ENm006.+1	mrna	1	CDSf	1	exon	7	CDSi	5	
+AL136851.ENm006.+1	mrna	1	CDSi	6	exon	7	CDSf	1	
+D16469.ENm006.+1	CDSi	2	CDSf	1	exon	6	mrna	1	
+BC012201.ENm006.+1	CDSt	1	mrna	1	exon	3	CDSi	2	
+BC000028.ENm006.+1	mrna	1	CDSt	1	CDSi	11	CDSf	1	exon	13	
+BC015499.ENm006.+1	CDSt	1	mrna	1	exon	3	CDSi	2	
+X87852.ENm006.+1	CDSt	1	mrna	1	CDSf	1	exon	33	CDSi	30	
+BC015744.ENm006.-1	CDSt	1	mrna	1	exon	3	CDSf	1	CDSi	1	
+BC043346.ENm006.-1	CDSi	2	CDSf	1	exon	4	mrna	1	CDSt	1	
+BC004966.ENm006.-1	exon	4	CDSf	1	mrna	1	CDSt	1	
+BC008912.ENm006.-1	CDSt	1	mrna	1	exon	9	CDSf	1	CDSi	7	
+BC002934.ENm006.-1	CDSi	1	CDSf	1	exon	10	mrna	1	CDSt	1	
+X03674.ENm006.-1	CDSt	1	mrna	1	exon	13	CDSf	1	CDSi	10	
+BC012114.ENm006.+1	exon	10	CDSf	1	CDSi	7	CDSt	1	mrna	1	
+AY114157.ENm006.+1	exon	10	CDSf	1	CDSi	8	CDSt	1	mrna	1	
+AY168775.ENm006.+1	CDSs	1	mrna	1	exon	1	
+NM_139250.ENm006.+1	CDSi	1	exon	3	CDSf	1	mrna	1	CDSt	1	
+AF038567.ENm006.+1	CDSf	1	exon	3	CDSi	1	CDSt	1	mrna	1	
+AJ275978.ENm006.+1	mrna	1	CDSt	1	CDSi	1	exon	2	
+NM_139250.ENm006.-1	exon	3	CDSf	1	CDSi	1	CDSt	1	mrna	1	
+AJ275978.ENm006.-1	mrna	1	CDSf	1	exon	2	CDSi	1	
+AF038567.ENm006.-1	CDSf	1	exon	3	CDSi	1	CDSt	1	mrna	1	
+AY168775.ENm006.-1	CDSs	1	mrna	1	exon	1	
+BC002833.ENm006.-1	exon	2	CDSf	1	mrna	1	CDSt	1	
+AY057989.ENm006.-1	CDSt	1	mrna	1	CDSf	1	exon	10	CDSi	8	
+BC009928.ENm006.+1	CDSi	13	CDSf	1	exon	15	mrna	1	CDSt	1	
+BC002392.ENm006.-1	mrna	1	CDSt	1	CDSi	10	exon	12	CDSf	1	
+BC064380.ENm006.-1	CDSt	1	mrna	1	CDSf	1	exon	5	CDSi	3	
+M14113.ENm006.-1	CDSt	1	mrna	1	exon	26	CDSf	1	CDSi	24	
+AF254576.ENm006.+1	CDSs	1	mrna	1	exon	1	
+BC039693.ENm006.+1	CDSs	1	mrna	1	exon	1	
+BC000255.ENm006.+1	CDSt	1	mrna	1	exon	5	CDSf	1	CDSi	3	
+AF267862.ENm006.+1	CDSf	1	exon	6	CDSi	2	CDSt	1	mrna	1	
+AK091092.ENm006.+1	CDSs	1	mrna	1	exon	2	
+BC002600.ENm006.-1	CDSf	1	exon	3	CDSt	1	mrna	1	
+BC002999.ENm006.+1	CDSf	1	exon	12	CDSi	9	CDSt	1	mrna	1	
+AK093999.ENm007.+1	exon	5	CDSf	1	mrna	1	CDSt	1	
+AY358582.ENm007.+1	CDSs	1	mrna	1	exon	4	
+AF087882.ENm007.+1	CDSs	1	mrna	1	exon	4	
+AK027693.ENm007.+1	exon	2	mrna	1	CDSs	1	
+BC047876.ENm007.+1	mrna	1	CDSt	1	CDSi	16	exon	18	CDSf	1	
+BC069332.ENm007.+1	CDSi	3	CDSf	1	exon	5	mrna	1	CDSt	1	
+AF361354.ENm007.+1	mrna	1	CDSf	1	exon	4	CDSi	3	
+BC021552.ENm007.+1	CDSf	1	exon	4	CDSi	2	CDSt	1	mrna	1	
+AY358542.ENm007.-1	CDSt	1	mrna	1	CDSf	1	exon	9	CDSi	7	
+AF391163.ENm007.-1	exon	6	CDSf	1	CDSi	5	mrna	1	
+AK091111.ENm007.-1	CDSi	3	CDSf	1	exon	5	mrna	1	CDSt	1	
+AF391164.ENm007.-1	mrna	1	CDSt	1	CDSi	2	exon	4	CDSf	1	
+AF251702.ENm007.-1	exon	5	CDSf	1	CDSi	3	CDSt	1	mrna	1	
+BC035023.ENm007.-1	mrna	1	CDSt	1	CDSi	2	CDSf	1	exon	5	
+BC022369.ENm007.+1	mrna	1	CDSt	1	CDSi	2	CDSf	1	exon	4	
+AY040822.ENm007.+1	CDSi	11	CDSf	1	exon	14	mrna	1	CDSt	1	
+AK098547.ENm007.+1	CDSt	1	mrna	1	exon	11	CDSf	1	CDSi	8	
+AF308303.ENm007.+1	CDSt	1	mrna	1	CDSf	1	exon	11	CDSi	5	
+AK128544.ENm007.-1	exon	4	CDSs	1	mrna	1	
+AK160386.ENm007.+1	CDSi	10	exon	16	CDSf	1	mrna	1	CDSt	1	
+AB014591.ENm007.+1	exon	17	CDSf	1	CDSi	15	CDSt	1	mrna	1	
+AF211966.ENm007.-1	mrna	1	exon	3	CDSf	1	CDSi	2	
+BC014986.ENm007.-1	CDSi	2	CDSf	1	exon	4	mrna	1	CDSt	1	
+AY263166.ENm007.-1	CDSt	1	mrna	1	exon	15	CDSf	1	CDSi	13	
+BC032477.ENm007.-1	CDSi	6	CDSf	1	exon	9	mrna	1	CDSt	1	
+BC025323.ENm007.-1	CDSi	13	CDSf	1	exon	15	mrna	1	CDSt	1	
+AY236492.ENm007.-1	CDSf	1	exon	15	CDSi	13	CDSt	1	mrna	1	
+BC002512.ENm007.-1	CDSi	6	CDSf	1	exon	7	mrna	1	
+AK055908.ENm007.-1	CDSi	5	CDSf	1	exon	8	mrna	1	CDSt	1	
+S82470.ENm007.-1	CDSi	2	CDSf	1	exon	6	mrna	1	CDSt	1	
+BC006309.ENm007.-1	CDSf	1	exon	7	CDSi	4	CDSt	1	mrna	1	
+BC004530.ENm007.+1	CDSt	1	mrna	1	CDSf	1	exon	5	CDSi	2	
+BC007410.ENm007.+1	CDSt	1	mrna	1	exon	5	CDSf	1	CDSi	2	
+AF025533.ENm007.-1	CDSi	11	exon	13	CDSf	1	mrna	1	CDSt	1	
+BC041708.ENm007.-1	CDSi	3	exon	10	CDSf	1	mrna	1	CDSt	1	
+BC025704.ENm007.-1	CDSf	1	exon	13	CDSi	11	CDSt	1	mrna	1	
+AK090399.ENm007.-1	CDSt	1	mrna	1	CDSf	1	exon	3	CDSi	1	
+BC036827.ENm007.-1	CDSi	11	CDSf	1	exon	14	mrna	1	CDSt	1	
+BC025766.ENm007.-1	mrna	1	CDSt	1	CDSi	7	exon	13	CDSf	1	
+BC028208.ENm007.-1	CDSi	5	CDSf	1	exon	7	mrna	1	CDSt	1	
+AF041261.ENm007.-1	CDSf	1	exon	7	CDSi	6	mrna	1	
+BC027899.ENm007.-1	mrna	1	CDSt	1	CDSi	8	CDSf	1	exon	10	
+AB188496.ENm007.+1	CDSt	1	mrna	1	CDSf	1	exon	14	CDSi	11	
+AF177909.ENm007.+1	CDSt	1	mrna	1	CDSf	1	exon	14	CDSi	11	
+AB162930.ENm007.+1	CDSf	1	exon	13	CDSi	11	CDSt	1	mrna	1	
+AK126690.ENm007.+1	CDSt	1	mrna	1	exon	9	CDSf	1	CDSi	7	
+BC019358.ENm007.+1	CDSt	1	mrna	1	CDSf	1	exon	11	CDSi	8	
+AL834532.ENm007.+1	mrna	1	CDSs	1	exon	4	
+BC028048.ENm007.+1	exon	16	CDSf	1	CDSi	13	CDSt	1	mrna	1	
+AB067519.ENm007.+1	CDSt	1	mrna	1	CDSf	1	exon	16	CDSi	13	
+AF318338.ENm007.+1	exon	1	CDSs	1	mrna	1	
+BC015921.ENm007.-1	exon	1	CDSs	1	mrna	1	
+BC024327.ENm007.-1	mrna	1	CDSf	1	exon	3	
+BC057790.ENm007.+1	CDSi	1	exon	5	CDSf	1	mrna	1	CDSt	1	
+BC069366.ENm007.+1	CDSf	1	exon	5	CDSi	3	CDSt	1	mrna	1	
+AK024467.ENm007.+1	mrna	1	CDSt	1	CDSi	1	exon	5	CDSf	1	
+BC033195.ENm007.+1	CDSf	1	exon	6	mrna	1	CDSt	1	
+U70665.ENm007.+1	CDSf	1	exon	4	CDSi	3	mrna	1	
+BC027916.ENm007.+1	CDSt	1	mrna	1	CDSf	1	exon	7	CDSi	5	
+AF025529.ENm007.+1	exon	8	CDSf	1	CDSi	5	CDSt	1	mrna	1	
+BC015731.ENm007.+1	CDSi	12	CDSf	1	exon	16	mrna	1	CDSt	1	
+BC026309.ENm007.+1	CDSi	10	exon	12	CDSf	1	mrna	1	CDSt	1	
+CR542048.ENm007.+1	exon	12	CDSi	12	mrna	1	
+NM_024317.ENm007.+1	CDSt	1	mrna	1	exon	7	CDSf	1	CDSi	5	
+AF352324.ENm007.+1	exon	8	CDSf	1	CDSi	6	CDSt	1	mrna	1	
+BC050730.ENm007.+1	CDSt	1	mrna	1	exon	8	CDSf	1	CDSi	6	
+L41347.ENm007.+1	CDSi	6	exon	8	CDSf	1	mrna	1	CDSt	1	
+U50546.ENm007.+1	CDSi	6	CDSf	1	exon	8	mrna	1	CDSt	1	
+L76668.ENm007.+1	CDSi	5	CDSf	1	exon	7	mrna	1	CDSt	1	
+AF135565.ENm007.+1	exon	2	CDSi	2	mrna	1	
+AF135566.ENm007.+1	mrna	1	CDSi	2	exon	2	
+AF135567.ENm007.+1	mrna	1	exon	2	CDSi	2	
+AF135561.ENm007.+1	exon	2	CDSi	2	mrna	1	
+AF135557.ENm007.+1	CDSi	3	exon	3	mrna	1	
+U96190.ENm007.+1	mrna	1	exon	2	CDSi	2	
+L41267.ENm007.+1	mrna	1	CDSt	1	CDSi	6	CDSf	1	exon	8	
+BC069344.ENm007.+1	CDSi	7	CDSf	1	exon	9	mrna	1	CDSt	1	
+AY366238.ENm007.+1	CDSt	1	mrna	1	exon	8	CDSi	7	
+AF135560.ENm007.+1	mrna	1	CDSi	2	exon	2	
+U96189.ENm007.+1	CDSi	2	exon	2	mrna	1	
+AF262973.ENm007.+1	mrna	1	CDSt	1	CDSi	7	CDSf	1	exon	9	
+U33328.ENm007.+1	CDSt	1	mrna	1	exon	8	CDSf	1	CDSi	6	
+U71199.ENm007.+1	CDSi	6	exon	8	CDSf	1	mrna	1	CDSt	1	
+AY359817.ENm007.+1	mrna	1	CDSt	1	CDSi	6	CDSf	1	exon	8	
+AF276292.ENm007.+1	exon	8	CDSi	6	CDSt	1	mrna	1	
+Y13054.ENm007.+1	CDSt	1	mrna	1	exon	7	CDSi	6	
+AF002256.ENm007.+1	CDSi	4	CDSf	1	exon	6	mrna	1	CDSt	1	
+AY223513.ENm007.+1	CDSi	6	exon	6	mrna	1	
+AY223515.ENm007.+1	CDSi	5	exon	5	mrna	1	
+AY052496.ENm007.+1	CDSi	3	exon	4	mrna	1	CDSt	1	
+AY052497.ENm007.+1	mrna	1	exon	3	CDSi	3	
+AY052498.ENm007.+1	CDSi	4	exon	4	mrna	1	
+U30274.ENm007.+1	CDSt	1	mrna	1	CDSf	1	exon	9	CDSi	7	
+AY366253.ENm007.+1	CDSf	1	exon	9	CDSi	7	CDSt	1	mrna	1	
+L76664.ENm007.+1	CDSf	1	exon	8	CDSi	6	CDSt	1	mrna	1	
+AY366252.ENm007.+1	mrna	1	CDSi	9	exon	9	
+AJ417556.ENm007.+1	exon	8	CDSi	7	CDSt	1	mrna	1	
+AF208689.ENm007.+1	mrna	1	exon	3	CDSi	3	
+AY059417.ENm007.+1	exon	7	CDSi	7	mrna	1	
+AF262971.ENm007.+1	exon	7	CDSi	6	CDSt	1	mrna	1	
+AF262972.ENm007.+1	mrna	1	CDSt	1	CDSi	6	exon	7	
+BC063682.ENm008.-1	exon	7	CDSf	1	CDSi	4	CDSt	1	mrna	1	
+BC015400.ENm008.-1	mrna	1	CDSi	2	exon	3	CDSf	1	
+BC073913.ENm008.-1	mrna	1	CDSt	1	CDSi	1	exon	6	CDSf	1	
+AY217347.ENm008.-1	CDSi	5	exon	11	CDSf	1	mrna	1	CDSt	1	
+AF060223.ENm008.-1	CDSt	1	mrna	1	exon	3	CDSf	1	CDSi	1	
+BC001381.ENm008.+1	exon	5	CDSf	1	CDSi	3	CDSt	1	mrna	1	
+AF289607.ENm008.+1	CDSt	1	mrna	1	exon	4	CDSf	1	
+BC014425.ENm008.-1	exon	18	CDSf	1	CDSi	15	CDSt	1	mrna	1	
+M99624.ENm008.-1	CDSi	3	exon	7	mrna	1	CDSt	1	
+BC014991.ENm008.+1	CDSi	2	exon	4	CDSf	1	mrna	1	CDSt	1	
+X90857.ENm008.-1	CDSt	1	mrna	1	CDSf	1	exon	15	CDSi	11	
+BC004185.ENm008.-1	CDSf	1	exon	11	CDSi	7	CDSt	1	mrna	1	
+BC027892.ENm008.+1	exon	3	CDSf	1	CDSi	1	CDSt	1	mrna	1	
+BC035682.ENm008.+1	CDSi	1	CDSf	1	exon	3	mrna	1	CDSt	1	
+V00493.ENm008.+1	CDSi	1	CDSf	1	exon	3	mrna	1	CDSt	1	
+AF349571.ENm008.+1	CDSi	1	exon	3	CDSf	1	mrna	1	CDSt	1	
+AF281258.ENm008.+1	CDSi	1	exon	2	mrna	1	CDSt	1	
+BC056686.ENm008.+1	CDSi	1	exon	3	CDSf	1	mrna	1	CDSt	1	
+BC065198.ENm008.-1	mrna	1	CDSt	1	CDSi	8	CDSf	1	exon	10	
+AK057165.ENm008.+1	exon	14	CDSf	1	CDSi	10	CDSt	1	mrna	1	
+AL136542.ENm008.+1	exon	13	CDSf	1	CDSi	9	CDSt	1	mrna	1	
+BC010521.ENm008.+1	exon	11	CDSi	10	CDSt	1	mrna	1	
+AK091701.ENm008.-1	CDSt	1	mrna	1	CDSf	1	exon	15	CDSi	4	
+AF035154.ENm008.-1	CDSi	15	exon	17	CDSf	1	mrna	1	
+BC040504.ENm008.-1	CDSi	2	exon	9	CDSf	1	mrna	1	CDSt	1	
+BC047699.ENm008.+1	mrna	1	CDSt	1	CDSi	4	exon	6	CDSf	1	
+BC000537.ENm008.+1	CDSt	1	mrna	1	exon	11	CDSi	10	
+BC075029.ENm008.+1	CDSi	10	exon	11	mrna	1	CDSt	1	
+AF009674.ENm008.-1	mrna	1	CDSi	10	exon	11	CDSf	1	
+BC044648.ENm008.-1	CDSi	7	exon	10	CDSf	1	mrna	1	CDSt	1	
+AK096844.ENm008.-1	exon	4	mrna	1	CDSs	1	
+BC000507.ENm008.-1	exon	6	CDSf	1	CDSi	3	CDSt	1	mrna	1	
+CR541751.ENm008.-1	mrna	1	CDSi	4	exon	4	
+BC021557.ENm008.-1	CDSt	1	mrna	1	exon	13	CDSf	1	CDSi	11	
+AK057798.ENm008.+1	exon	1	CDSs	1	mrna	1	
+BC004880.ENm008.+1	CDSi	3	exon	5	CDSf	1	mrna	1	CDSt	1	
+BC011968.ENm008.+1	CDSi	6	CDSf	1	exon	9	mrna	1	
+BC010740.ENm008.+1	mrna	1	CDSi	7	exon	9	CDSf	1	
+AK128012.ENm008.+1	CDSi	4	exon	10	CDSf	1	mrna	1	CDSt	1	
+AL442076.ENm008.+1	mrna	1	CDSf	1	exon	2	
+BC051360.ENm008.+1	CDSt	1	mrna	1	exon	14	CDSf	1	CDSi	12	
+BC009036.ENm008.+1	exon	3	CDSi	2	CDSt	1	mrna	1	
+NM_001005177.ENm009.-1	mrna	1	exon	1	CDSi	1	
+NM_001004753.ENm009.+1	mrna	1	exon	1	CDSi	1	
+NM_001004758.ENm009.-1	mrna	1	CDSi	1	exon	1	
+NM_001004759.ENm009.+1	CDSi	1	exon	1	mrna	1	
+NM_001004749.ENm009.+1	CDSi	1	exon	1	mrna	1	
+NM_001005238.ENm009.-1	exon	1	CDSi	1	mrna	1	
+NM_001005237.ENm009.-1	mrna	1	CDSi	1	exon	1	
+NM_001005329.ENm009.-1	CDSi	1	exon	1	mrna	1	
+NM_001004748.ENm009.-1	CDSi	1	exon	1	mrna	1	
+AF248646.ENm009.+1	CDSf	1	exon	6	CDSi	4	CDSt	1	mrna	1	
+NM_001004755.ENm009.+1	mrna	1	CDSi	1	exon	1	
+NM_001001916.ENm009.+1	exon	1	CDSi	1	mrna	1	
+NM_001005164.ENm009.-1	mrna	1	exon	1	CDSi	1	
+NM_001005160.ENm009.-1	CDSi	1	exon	1	mrna	1	
+NM_012375.ENm009.-1	mrna	1	CDSi	1	exon	1	
+NM_001004760.ENm009.-1	mrna	1	exon	1	CDSi	1	
+BC007075.ENm009.-1	CDSi	1	exon	3	CDSf	1	mrna	1	CDSt	1	
+AF181832.ENm009.-1	mrna	1	CDSi	2	exon	3	CDSf	1	
+AY034468.ENm009.-1	CDSi	1	CDSf	1	exon	3	mrna	1	CDSt	1	
+X55656.ENm009.-1	CDSi	3	exon	4	CDSf	1	mrna	1	
+BC020719.ENm009.-1	CDSi	1	CDSf	1	exon	3	mrna	1	CDSt	1	
+BC010913.ENm009.-1	mrna	1	CDSt	1	CDSi	1	exon	3	CDSf	1	
+X55657.ENm009.-1	mrna	1	CDSf	1	exon	1	
+BC010914.ENm009.-1	CDSt	1	mrna	1	CDSf	1	exon	3	CDSi	1	
+M15386.ENm009.-1	mrna	1	CDSi	2	CDSf	1	exon	3	
+AF110493.ENm009.-1	exon	3	CDSf	1	CDSi	2	mrna	1	
+BC015537.ENm009.-1	CDSi	1	exon	5	CDSf	1	mrna	1	CDSt	1	
+BC069094.ENm009.-1	mrna	1	exon	1	CDSi	1	
+NM_033180.ENm009.-1	mrna	1	exon	1	CDSi	1	
+NM_001005567.ENm009.-1	CDSi	1	exon	1	mrna	1	
+NM_001004756.ENm009.+1	CDSi	1	exon	1	mrna	1	
+NM_001004757.ENm009.+1	mrna	1	exon	1	CDSi	1	
+NM_001005288.ENm009.-1	mrna	1	exon	1	CDSi	1	
+NM_001004754.ENm009.+1	mrna	1	exon	1	CDSi	1	
+NM_001005163.ENm009.+1	exon	1	CDSi	1	mrna	1	
+BC036743.ENm009.-1	CDSs	1	mrna	1	exon	2	
+BC034977.ENm009.-1	exon	1	CDSs	1	mrna	1	
+AK057255.ENm009.-1	CDSt	1	mrna	1	exon	2	CDSf	1	
+AK127987.ENm009.-1	mrna	1	CDSf	1	exon	1	
+NM_001005289.ENm009.-1	exon	1	CDSi	1	mrna	1	
+NM_001005162.ENm009.+1	CDSi	1	exon	1	mrna	1	
+AF220030.ENm009.+1	CDSi	5	exon	8	CDSf	1	mrna	1	CDSt	1	
+CR749260.ENm009.+1	CDSt	1	mrna	1	CDSf	1	exon	9	CDSi	6	
+BC047564.ENm009.+1	CDSi	6	CDSf	1	exon	8	mrna	1	CDSt	1	
+AB039903.ENm009.+1	mrna	1	CDSt	1	CDSi	12	exon	14	CDSf	1	
+BC065575.ENm009.+1	mrna	1	CDSt	1	CDSi	6	CDSf	1	exon	8	
+AK027876.ENm009.+1	CDSf	1	exon	8	CDSi	5	CDSt	1	mrna	1	
+AF220144.ENm009.+1	mrna	1	CDSt	1	CDSi	3	exon	9	CDSf	1	
+AB039904.ENm009.+1	CDSf	1	exon	4	CDSi	2	CDSt	1	mrna	1	
+AL583914.ENm009.+1	exon	7	CDSi	6	CDSt	1	mrna	1	
+AK027593.ENm009.-1	CDSt	1	mrna	1	exon	8	CDSf	1	CDSi	5	
+BC035582.ENm009.+1	mrna	1	CDSt	1	CDSi	5	exon	8	CDSf	1	
+NM_001005180.ENm009.+1	mrna	1	CDSi	1	exon	1	
+NM_001005175.ENm009.+1	mrna	1	exon	1	CDSi	1	
+BC032547.ENm010.-1	exon	2	CDSf	1	mrna	1	CDSt	1	
+NM_006735.ENm010.-1	mrna	1	CDSt	1	CDSf	1	exon	2	
+BC015180.ENm010.-1	exon	3	CDSf	1	mrna	1	CDSt	1	
+AK056230.ENm010.+1	mrna	1	CDSt	1	CDSf	1	exon	2	
+M74297.ENm010.-1	exon	3	CDSf	1	CDSi	1	mrna	1	
+BC013682.ENm010.-1	mrna	1	CDSt	1	CDSf	1	exon	2	
+CR542277.ENm010.-1	mrna	1	CDSi	2	exon	2	
+NM_024014.ENm010.-1	mrna	1	exon	2	CDSf	1	CDSi	1	
+NM_006896.ENm010.-1	CDSt	1	mrna	1	CDSf	1	exon	2	
+AJ005814.ENm010.-1	CDSt	1	mrna	1	CDSf	1	exon	2	
+BC006537.ENm010.-1	mrna	1	CDSt	1	exon	2	CDSf	1	
+BC013971.ENm010.-1	exon	2	CDSf	1	CDSt	1	mrna	1	
+BC040948.ENm010.-1	CDSt	1	mrna	1	exon	2	CDSf	1	
+BC075791.ENm010.-1	exon	2	CDSf	1	mrna	1	CDSt	1	
+X60655.ENm010.+1	CDSf	1	exon	3	CDSi	1	CDSt	1	mrna	1	
+BC067785.ENm011.-1	mrna	1	CDSt	1	CDSi	4	exon	6	CDSf	1	
+AB028173.ENm011.-1	CDSs	1	mrna	1	exon	6	
+AK057350.ENm011.-1	CDSt	1	mrna	1	CDSf	1	exon	6	CDSi	4	
+BC016320.ENm011.-1	CDSi	7	exon	9	CDSf	1	mrna	1	CDSt	1	
+AK131292.ENm011.+1	CDSt	1	mrna	1	exon	6	CDSf	1	CDSi	2	
+AL137708.ENm011.+1	mrna	1	CDSs	1	exon	3	
+BC032148.ENm011.+1	CDSt	1	mrna	1	CDSf	1	exon	7	CDSi	4	
+BC001785.ENm011.+1	mrna	1	CDSt	1	CDSi	8	CDSf	1	exon	11	
+AK129684.ENm011.+1	exon	1	mrna	1	CDSs	1	
+BC062430.ENm011.+1	mrna	1	exon	11	CDSf	1	CDSi	9	
+BX640689.ENm011.+1	mrna	1	CDSt	1	CDSi	13	CDSf	1	exon	16	
+BC050446.ENm011.+1	mrna	1	CDSt	1	CDSi	14	exon	15	
+NM_006757.ENm011.+1	mrna	1	CDSt	1	CDSi	13	exon	15	CDSf	1	
+CR541927.ENm011.+1	CDSi	15	exon	15	mrna	1	
+AK128774.ENm011.+1	exon	3	mrna	1	CDSs	1	
+BC027710.ENm011.+1	CDSt	1	mrna	1	exon	5	CDSf	1	CDSi	3	
+AK126380.ENm011.+1	CDSs	1	mrna	1	exon	1	
+AK056774.ENm011.-1	mrna	1	CDSt	1	exon	6	CDSf	1	
+AF118081.ENm011.+1	exon	1	CDSf	1	mrna	1	
+AF318382.ENm011.-1	mrna	1	CDSs	1	exon	1	
+AK074614.ENm011.+1	CDSs	1	mrna	1	exon	4	
+BC000531.ENm011.-1	CDSi	1	CDSf	1	exon	4	mrna	1	CDSt	1	
+AB030733.ENm011.+1	CDSt	1	mrna	1	CDSf	1	exon	3	CDSi	1	
+AY149295.ENm011.+1	CDSi	1	exon	3	mrna	1	CDSt	1	
+AY149296.ENm011.+1	mrna	1	CDSs	1	exon	2	
+BC005255.ENm011.-1	mrna	1	CDSt	1	exon	3	CDSf	1	
+M17589.ENm011.-1	mrna	1	CDSt	1	CDSi	12	CDSf	1	exon	14	
+AY144494.ENm011.-1	CDSi	6	exon	6	mrna	1	
+AY144495.ENm011.-1	CDSf	1	exon	7	CDSi	3	mrna	1	
+M24790.ENm011.-1	mrna	1	CDSt	1	CDSi	2	exon	3	
+M20912.ENm011.-1	exon	1	CDSi	1	mrna	1	
+BC057801.ENm011.-1	mrna	1	CDSf	1	exon	2	
+AB029488.ENm011.-1	CDSi	1	exon	4	CDSf	1	mrna	1	CDSt	1	
+BC016693.ENm011.+1	mrna	1	CDSt	1	CDSi	7	exon	10	CDSf	1	
+AK128812.ENm011.+1	exon	9	CDSf	1	CDSi	1	CDSt	1	mrna	1	
+AY303780.ENm011.+1	mrna	1	CDSi	8	exon	8	
+AK131266.ENm012.+1	exon	20	CDSf	1	CDSi	7	CDSt	1	mrna	1	
+AF454830.ENm012.+1	CDSf	1	exon	12	CDSi	3	mrna	1	
+CR749236.ENm012.+1	mrna	1	CDSt	1	CDSi	7	exon	23	CDSf	1	
+BC018016.ENm012.+1	CDSf	1	exon	3	CDSt	1	mrna	1	
+AF467258.ENm012.+1	CDSi	9	exon	9	mrna	1	
+AF467259.ENm012.+1	mrna	1	exon	10	CDSi	10	
+AF054589.ENm012.+1	CDSt	1	mrna	1	exon	5	CDSf	1	CDSi	3	
+BC011802.ENm013.+1	CDSf	1	exon	5	CDSi	2	CDSt	1	mrna	1	
+AF455138.ENm013.+1	mrna	1	CDSt	1	CDSi	2	CDSf	1	exon	5	
+AY008443.ENm013.+1	exon	7	CDSf	1	CDSi	3	CDSt	1	mrna	1	
+AY008444.ENm013.+1	CDSi	2	exon	6	CDSf	1	mrna	1	CDSt	1	
+BC036351.ENm013.+1	CDSt	1	mrna	1	CDSf	1	exon	19	CDSi	6	
+AY349356.ENm013.+1	exon	7	CDSi	7	mrna	1	
+AK024715.ENm013.+1	CDSt	1	mrna	1	CDSf	1	exon	11	CDSi	9	
+AF351613.ENm013.+1	CDSi	6	CDSf	1	exon	8	mrna	1	CDSt	1	
+AK095561.ENm013.+1	CDSt	1	mrna	1	exon	10	CDSf	1	CDSi	8	
+BC021573.ENm013.+1	CDSi	8	exon	9	mrna	1	CDSt	1	
+BC036754.ENm013.+1	mrna	1	CDSs	1	exon	2	
+AB020641.ENm013.+1	CDSi	11	CDSf	1	exon	14	mrna	1	CDSt	1	
+AB017363.ENm013.+1	exon	1	CDSs	1	mrna	1	
+U92459.ENm014.-1	mrna	1	CDSt	1	CDSi	8	CDSf	1	exon	10	
+AF218032.ENm014.-1	mrna	1	CDSt	1	CDSi	2	CDSf	1	exon	5	
+BC014100.ENm014.-1	mrna	1	CDSt	1	exon	2	CDSf	1	
+BC033104.ENm014.+1	CDSi	4	CDSf	1	exon	6	mrna	1	CDSt	1	
+BC035606.ENm014.+1	exon	7	CDSf	1	CDSi	5	mrna	1	

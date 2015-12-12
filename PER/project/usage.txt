@@ -1,0 +1,8 @@
+Usage: main.pl TRANSFAC_FILE [OPTIONS]
+Produce the topmost scoring sequences from a position weight matrix.
+
+-n    number of sequences to be generated (by default 10000)
+-o    output file (by default prints to STDOUT)
+-s    sensitivity of the heuristic algorithm (by default 10)(see report for details)
+-S    number of sequences to be generated in the heuristic algorithm
+-a    flag to generate all possible sequences (WARNING! this number may be too big and fill out the memory)
