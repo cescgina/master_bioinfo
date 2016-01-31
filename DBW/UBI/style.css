@@ -1,0 +1,128 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    background-color: #F0F0F0;
+    width: 100%;
+    height: auto;
+/*    height: 100%;*/
+    
+}
+#container {
+    margin-left:auto;
+    margin-right:auto;
+    background-color: white;
+    width:960px;
+    /*height: 3000px;*/
+    height: auto;
+}
+header {
+    background-color: #D2E1F6;
+    text-align: center;
+    width: 100%;
+}
+h1{
+    margin-top: 0;
+    color: #003C50;
+}
+h2 {
+    color: #003C50;
+}
+#queryid{
+    width: 98%;
+    height: 100px;
+    background-color: #8CE8BC;
+    border: solid black 1px;
+    border-radius: 20px;
+    margin-left:auto;
+    margin-right:auto;
+}
+#ID {
+    width: 15%;
+    height: 75px;
+    text-align: center;
+    float: left;
+    line-height: 50px;
+    padding-top: 25px;
+}
+#ID span{
+    height: 50px;
+    color:#001E05;
+}
+#dataid{
+    width: 80%;
+    height: 75px;
+    text-align: center;
+    padding-top: 25px;
+    float: left;
+    line-height: 50px;
+}
+#dataid span{
+    height: 50px;
+}
+#queryseq{
+    margin-top: 20px;
+    width: 98%;
+    height: 200px;
+    background-color: #8CE8BC;
+    border: solid black 1px;
+    border-radius: 20px;
+    margin-left:auto;
+    margin-right:auto;
+}
+#seq {
+    width: 15%;
+    height: 125px;
+    text-align: center;
+    float: left;
+    padding-top: 75px;
+    line-height: 50px;
+}
+#seq span{
+    height: 100px;
+}
+#dataseq{
+    width: 80%;
+    height: 150px;
+    text-align: center;
+    float: left;
+    line-height: 20px;
+    padding-top: 50px;
+}
+#dataseq span{
+    height: 100px;
+    margin: 0;
+}
+#results {
+    margin-top: 20px;
+    width: 98%;
+    margin-left:auto;
+    margin-right:auto;
+    border: solid #f2f2f2 1px;
+    border-collapse: collapse;
+    margin-bottom: 5px;
+}
+tr:nth-child(even) 
+{
+    background-color: #f2f2f2;
+}
+ th{
+    background-color: #4CAF50;
+    color: white;
+    text-align: left;
+}
+th, td {
+    border-bottom: 1px solid #ddd;
+}
+h4 {
+    margin-left: 50px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+
+#tablediv{
+    width: 100%;
+    height: auto;
+    background-color: white;
+}

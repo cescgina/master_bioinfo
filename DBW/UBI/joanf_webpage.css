@@ -1,0 +1,141 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    background-color: #F0F0F0;
+    min-width: 100%;
+    width: 100%;
+    max-width: 100%;
+    height: 1000px;
+    
+}
+#container {
+    margin-left:auto;
+    margin-right:auto;
+    width:960px;
+    height: 1000px;
+    background-color: white;
+}
+#header{
+    width: 100%;
+    text-align: center;
+    height: 200px;
+    /*margin-left: 12.5%;
+    margin-right: 12.5%;*/
+    margin-top: 0px;
+    /*border-bottom: solid #118C4E 1px;*/
+}
+#content {
+    height: 780px;
+    width: 100%;
+    margin-top: 20px;
+    /*margin-left: 12.5%;
+    margin-right: 12.5%;*/
+     background-color: white;
+}
+
+ h1 {
+   /* line-height: 100%;
+    display:inline;*/
+    color: #404040;
+     font-size: 36pt;
+    font-family: "Droid Sans","Lucida Grande",Tahoma,sans-serif;
+     margin: 0;
+     text-decoration: underline;
+     text-decoration-color: #118C4E;
+     
+}
+h2 {
+        color: #7E8F7C;
+     font-size: 20pt;
+    font-family: "Droid Sans","Lucida Grande",Tahoma,sans-serif;
+    margin-bottom: 0;
+}
+h4 {
+    color: #404040;
+    text-decoration: underline;
+    font-size: 22pt;
+    font-family: "Droid Sans","Lucida Grande",Tahoma,sans-serif;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+#left-col {
+    height: 730px;
+    width: 60%;
+    float: left;
+    background-color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 2%;
+}
+ul {
+    font-family: "Droid Sans","Lucida Grande",Tahoma,sans-serif;
+    font-size: 14pt;
+    color: #404040;
+    text-align: left;
+}
+#right-col {
+    height: 600px;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 28%;
+    background-color: white;
+    padding-left: 0%;
+    padding-top: 180px;
+    float: left;
+}
+
+#aboutme {
+    width: 100%;
+    height: 230px;
+    text-align: center;
+}
+#photo{
+    height: 120px;
+    width: 120px;
+    float: left;
+    background-image: url('files/foto.jpg');
+    background-color: beige;
+    background-size: 100% 100%;
+}
+#text {
+    float: left;
+    width: 55%;
+    height: 120px;
+    margin-top: 0;
+    padding-top: 0;
+}
+#text p {
+
+    font-family: "Droid Sans","Lucida Grande",Tahoma,sans-serif;
+    font-size: 10pt;
+    color: #404040;
+    text-align: left;
+    /*margin-right: 5%;
+    padding-left: 5%;*/
+    margin-top: 0;
+    
+}
+a img {
+    width: 40px;
+    height: 40px;
+}
+#links {
+    text-align: center;
+    height: 80px;
+    width: 80%;
+    float: left;
+    padding-top: 10px;
+}
+#other-stuff {
+    width: 100%;
+    height: 300px;
+    padding-top: 30px;
+    text-align: center;
+}
+#interesting {
+    height: 150px;
+    width: 100%;
+    border-style: outset; 
+    border-color: #118C4E;
+    border-size: 2px;
+}

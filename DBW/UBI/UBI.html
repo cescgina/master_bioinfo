@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>UBI</title>
+		<meta charset="UTF-8">
+        <link rel="stylesheet" href="style-form.css">
+	</head>
+
+	<body>
+        <div id="container">
+                <header>
+                    <h1>UBI</h1>
+                    <h2>The Ultimate Blast Interface</h2>
+                </header>
+                <div id="formdiv">
+                     <form  action="waitpage.php" id="input" method="POST"  enctype="multipart/form-data">
+                        <p id="explain">Enter a sequence in FASTA format or raw, or optionally a FASTA file</p>
+                        <textarea name="fasta" cols="60" rows="5" placeholder="Enter your sequence here..." autofocus="on"></textarea><br>
+                        <input name="uploadFile" type="file"><br>
+                        <br>
+                        <p>Select the database you wish to query:</p>
+                        <input type="radio" name="db" value="SwissProt" checked> SwissProt
+                        <input type="radio" name="db" value="PDB"> PDB<br>
+                        <br>
+                        <input type="submit" value="Submit">
+                        <input type="reset" value="Clear fields">
+                    </form>
+                 </div>
+        </div>
+	</body>
+</html>
