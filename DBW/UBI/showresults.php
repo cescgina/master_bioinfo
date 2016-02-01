@@ -30,8 +30,8 @@
                 <?php
                     if (trim($result[21]) === "***** No hits found ******"){
                         echo '<div id="diverror">';
-                        echo '<h1>Your query produced no hits</h1>';
-                        echo "<h2>We'll redirect you to our homepage so you can do another search</h2>";
+                        echo '<h2>Your query produced no hits</h2>';
+                        echo "<h4>We'll redirect you to our homepage so you can do another search</h4>";
                         echo "<br>";
                         echo "<a href='UBI.html'>If you are not redirected automatically, please click here</a>";
                         echo '</div>';

@@ -1,3 +1,11 @@
+<?php
+# start Session to hold input data
+session_start();
+# Check if input comes from an uploaded file
+if ($_FILES['uploadFile']['name']) {
+    $_REQUEST['fasta']=  file_get_contents($_FILES['uploadFile']['tmp_name']);
+}
+?>
 <html>
         <head>
             <title>UBI</title>
@@ -10,32 +18,28 @@
                     <h2>The Ultimate Blast Interface</h2>
                 </header>
                <div id="wait">
-                   <p>Your input is being processed, we'll show you the results as soon as possible</p>
-                    <p>Have a cup of coffe meanwhile</p>
-                    <img src="http://www.clipartbest.com/cliparts/Kcn/ozR/KcnozR7oi.jpeg">
+                   <?php
+                        if (!$_REQUEST['fasta']) { 
+                            echo '<h2>Error: Received request was empty</h2>';
+                            echo "<h4>We'll redirect you to our homepage so you can do another search</h4>";
+                            echo "<br>";
+                            echo "<a href='UBI.html'>If you are not redirected automatically, please click here</a>";
+                            echo '</div>';
+                            print "<META http-equiv='refresh' content='4;URL=UBI.html'>";
+                            exit;
+                        }
+                        else {
+                            echo "<h3>Your input is being processed, we'll show you the results as soon as possible</h3>";
+                            echo "<h3>Have a cup of coffe meanwhile</h3>";
+                            echo '<img src="http://www.clipartbest.com/cliparts/Kcn/ozR/KcnozR7oi.jpeg">';
+                        }
+                   ?>
                </div>
             </div>
     </body>
 </html>
+
 <?php
-# start Session to hold input data
-session_start();
-# Check if input comes from an uploaded file
-if ($_FILES['uploadFile']['name']) {
-    $_REQUEST['fasta']=  file_get_contents($_FILES['uploadFile']['tmp_name']);
-}
-if (!$_REQUEST['fasta']) { ?>
-    <html>
-        <head>
-            <title>Error: No request</title>
-        </head>
-        <body>
-            <h2>Error: Received request was empty</h2>
-        </body>
-    </html>
-    <?php
-        exit;
-} else {
 # Process input
     $_SESSION['db']=$_REQUEST['db'];
     # Check if this is a FASTA (first character ">")
@@ -49,7 +53,6 @@ if (!$_REQUEST['fasta']) { ?>
     }
    print "<META http-equiv='refresh' content='3;URL=parseblast.php'>";
     exit;
-}
 
 function isFasta($f) {
     return (substr($f,0,1) == ">");
