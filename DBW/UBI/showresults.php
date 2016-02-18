@@ -1,68 +1,71 @@
 <?php
     session_start();
-    if (!$_SESSION['id']){
+    if (!$_SESSION['ids']){
         $id='Anonymous sequence';
+        $nquery=1;
      }
     else{
-        $id=$_SESSION['id'];
+        $ids=$_SESSION['ids'];
+        array_shift($ids);
+        $nquery=count($ids);
     }
-    $sequence=$_SESSION['data'];
     $result=$_SESSION['output'];
 ?>
   <html>
         <head>
             <title>UBI</title>
+    		<meta charset="UTF-8">
+
             <?php
-                if (trim($result[21]) === "***** No hits found ******"){
-                    echo '<link rel="stylesheet" href="style-form.css">';
-                }
-                else {
-                    echo '<link rel="stylesheet" href="style.css">';
-                }
+                $i=0;
+                while ($i<count($result)){
+                     if (preg_match("/No hits found/",$result[$i])){
+                        $error=1;
+                        break;
+                     }		
+                    elseif (preg_match("/Sequences producing/",$result[$i])){
+                        $resultpos=$i+2;
+                        break;
+                    }	
+                    $i++;
+                }		
+                echo '<link rel="stylesheet" href="style.css">';
             ?>
         </head>
         <body>
             <div id="container">
-                <header>
+                <header id="top">
                     <h1>UBI</h1>
                     <h2>The Ultimate Blast Interface</h2>
                 </header>
-                <?php
-                    if (trim($result[21]) === "***** No hits found ******"){
-                        echo '<div id="diverror">';
-                        echo '<h2>Your query produced no hits</h2>';
-                        echo "<h4>We'll redirect you to our homepage so you can do another search</h4>";
-                        echo "<br>";
-                        echo "<a href='UBI.html'>If you are not redirected automatically, please click here</a>";
-                        echo '</div>';
-                        print "<META http-equiv='refresh' content='3;URL=UBI.html'>";
-                        exit;
-                    }
-                ?>
+            <div id="content">
+		<?php
+		  for ($nq=0;$nq<$nquery;$nq++){
+                ?>		    
                 <h4>Your Query:</h4>
                 <div id="queryid">
                     <div id="ID"><span>ID</span></div>
                     <div id="dataid">
                         <span>
                         <?php 
-                            echo $id;
+                            if ($ids){
+                                echo $ids[$nq];
+                            }
+                            else {
+                                echo $id;
+                            }
                         ?>
                         </span>
                     </div>
                 </div>
-                <div id="queryseq">
-                    <div id="seq">
-                        <span>SEQUENCE</span>
-                    </div>
-                    <div id="dataseq">
-                        <span>
-                        <?php
-                            echo $sequence;
-                        ?>
-                        </span>
-                    </div>
-
-                </div>
+		<?php 
+		if ($error) {
+            echo '<div id="diverror">';
+            echo '<h2>Your query produced no hits</h2>';
+            echo '</div>';
+        }
+		else{
+            ?>
                 <div id="tablediv">
                      <?php
                         echo '<table id="results">';
@@ -71,13 +74,11 @@
                         echo '<th>Score(bits)</th>';
                         echo '<th>E value</th>';
                         echo '</tr>';
-
-                        $i=26;
-                        while ($i<count($result)){
-                            if (!trim($result[$i])){
+                        while ($resultpos<count($result)){
+                            if (!trim($result[$resultpos])){
                                 break;
                             }
-                            $info=preg_split('/\s+/',$result[$i]);
+                            $info=preg_split('/\s+/',$result[$resultpos]);
                             $n=count($info);
                             $info_update=array(implode(" ",array_slice($info,0,$n-2)));
                             array_push($info_update,$info[$n-2]);
@@ -87,12 +88,40 @@
                                 echo '<td>'.trim($field).'</td>';
                             }
                             echo '</tr>';
-                            $i++;
+                            $resultpos++;
                         }
-                        echo '</table>'
-                        ?>
-                    </div>
-                    <div style="height:20px;width:100%;background-color:white;"></div>
-            </div>    
+                        echo '</table>';
+                        echo '</div>';
+			             $error=0;
+			             while ($resultpos<count($result)){
+                             if (preg_match("/No hits found/",$result[$resultpos])){
+                                 $error=1;
+                                break;
+                             }		
+                             else if (preg_match("/Sequences producing/",$result[$resultpos])){
+                                $resultpos+=2;
+                                break;
+                             }	
+                             $resultpos++;
+                        }		
+        }
+}
+//session_unset();
+                    ?>
+            <div id="divlinks">
+                <a href="#top" id="links">
+                    <span id=home>
+                        Back to top
+                    </span>
+                </a>
+                <a href="UBI.html" id="links">
+                    <span id=home>
+                        Query again
+                    </span>
+                </a>	
+                    </div> 
+            </div>  
+        </div>
         </body>
 </html>
+
